@@ -1,0 +1,52 @@
+COMPOUND IT
+Copyright (c) 2026 Wombyland. All rights reserved.
+
+PERMITTED
+
+You may download, install and play COMPOUND IT free of charge, for personal,
+educational and non-commercial use, on any number of computers you own or
+control. Teachers and schools are welcome to install and use it in classrooms
+without seeking permission.
+
+You may edit the content files the game writes to your own computer (see
+"Content" below) and use your edited copies for teaching.
+
+NOT PERMITTED
+
+Without prior written permission from Wombyland, you may not:
+
+  - sell, rent, license or otherwise distribute the game or any part of it,
+    whether on its own or bundled with anything else;
+  - modify, translate, reverse engineer, decompile or disassemble the game, or
+    derive its source code, except to the extent this restriction is prohibited
+    by applicable law;
+  - remove or alter any copyright, trademark or other proprietary notice.
+
+You are welcome to record, stream and publish video of the game, including
+monetised video, without seeking permission.
+
+CONTENT
+
+COMPOUND IT copies its content files to a writable folder on your computer on
+first run, so they can be edited without development tools. Those edits are
+yours. The permission above to edit and teach from them does not extend to
+redistributing the game itself with altered content.
+
+NO WARRANTY
+
+The game is provided "as is", without warranty of any kind, express or implied,
+including but not limited to the warranties of merchantability, fitness for a
+particular purpose and non-infringement. In no event shall the copyright holder
+be liable for any claim, damages or other liability, whether in an action of
+contract, tort or otherwise, arising from, out of or in connection with the game
+or its use.
+
+The chemistry content is provided for education and revision. It is not a
+substitute for a syllabus, a textbook or a teacher, and no warranty is given as
+to its completeness or its fitness for any particular course of study.
+
+COMPOUND IT is built with the Unity engine. Unity is a trademark of Unity
+Technologies. The installer is produced with Inno Setup, copyright (c)
+1997-2025 Jordan Russell, used under its own licence.
+
+Contact: https://www.wombyland.com/
