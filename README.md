@@ -52,6 +52,10 @@ alongside your notes rather than taking over the display.
 
 ## Six ways in
 
+![The main menu](screenshots/02-menu.png)
+
+The six modes are laid out as elements, each with its own symbol and number.
+
 **Build** — assemble a named compound atom by atom. Get it right and you are told
 what the molecule does in the world: that ethanol is the only alcohol safe to
 drink, that ethene is flat because a double bond cannot rotate. Ten clean builds
@@ -82,6 +86,10 @@ Lightning Round, achievements earned.
 Every molecule can be rotated and scaled. That is not decoration: it is how you
 see that ethene is flat, that methane is a tetrahedron rather than a cross, that
 the oxygen in ethanol sits off to one side.
+
+![Ethene, flat because the double bond cannot rotate](screenshots/03-ethene.png)
+
+The game says why, not just what.
 
 **Show lone pairs** adds the non-bonding electrons. **2D / 3D** switches between
 the flat Lewis diagram you would draw in an exercise book and the real shape.
